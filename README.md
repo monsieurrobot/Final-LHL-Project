@@ -1,4 +1,4 @@
-# Mini-project IV
+# Final LHL Project
 
 ### [Assignment](assignment.md)
 
